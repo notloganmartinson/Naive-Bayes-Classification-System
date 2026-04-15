@@ -1,5 +1,5 @@
 # Project 1: Naïve Bayes Classification and Performance Evaluation
-
+Built entirely with AI coding
 ## Description
 This program is a custom implementation of a Naïve Bayes classification system. It is built entirely from scratch without the use of external machine learning libraries. The classifier calculates probabilities based on training data and smooths the data by adding one to all counts to prevent zero-probability errors. 
 
